@@ -1,0 +1,34 @@
+Operating System 
+Lab3
+
+Junye Zhu
+N11235693
+
+You can run the program via next few steps.
+
+1. run makefile to get mmu
+++++++++++++++++++++++++++++++++++++++++++++
+++++++         make                 ++++++++
+++++++++++++++++++++++++++++++++++++++++++++
+
+2. run test3/2
+++++++++++++++++++++++++++++++++++++++++++++++
++++++   ./test3.sh   +++++++
+++++++++++++++++++++++++++++++++++++++++++++++
+Then the output files are in folder data2
+
+3. Check the differences between your output in outputs with standard output in inputs by running diffit.sh.
+Suppose you are still in data2:
++++++++++++++++++++++++++++++++++++++++++++++++
++++++   ./diffit.sh /outputs /inputs  +++++++
++++++++++++++++++++++++++++++++++++++++++++++++
+The information of comparison will be printed. If there is no difference between the two files, then nothing will be printed.
+
+
+
+
+
+
+1. rfile
+2.
+L 4
